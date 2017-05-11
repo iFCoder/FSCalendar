@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="calendar_text_color_disable">#cccccc</color>
+    <color name="calendar_date_bg">#FCB058</color>
+    <color name="bg_white">#ffffff</color>
+    <color name="fsgm_blue">#49ADE9</color>
+    <color name="text_color_normal">#A0A0A0</color>
+    <color name="fsgm_colorWhite">#FFFFFFFF</color>
+    <color name="fsgm_弱字体">#4f4f4f</color>
+    <color name="fsgm_big_deivide">#f4f4f4</color>
+
+
+    <color name="normal_day">#424242</color>
+    <color name="selected_day_background">#03A9F4</color>
+    <color name="selected_day_text">#FFFFFF</color>
+    <color name="month_day_label_text">#757575</color>
+    <color name="weekends_day">#BDBDBD</color>
+    <color name="current_day_background">#DDDDDD</color>
+    <color name="normal_month">#03A9F4</color>
+    <color name="start_end_text_color">#FF0000</color>
+</resources>
